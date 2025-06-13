@@ -1,0 +1,8 @@
+D:\KMGEngine\BoxApp.cpp;D:\KMGEngine\KMGEngine\x64\Debug\BoxApp.obj
+D:\KMGEngine\Common\Camera.cpp;D:\KMGEngine\KMGEngine\x64\Debug\Camera.obj
+D:\KMGEngine\Common\d3dApp.cpp;D:\KMGEngine\KMGEngine\x64\Debug\d3dApp.obj
+D:\KMGEngine\Common\d3dUtil.cpp;D:\KMGEngine\KMGEngine\x64\Debug\d3dUtil.obj
+D:\KMGEngine\Common\DDSTextureLoader.cpp;D:\KMGEngine\KMGEngine\x64\Debug\DDSTextureLoader.obj
+D:\KMGEngine\Common\GameTimer.cpp;D:\KMGEngine\KMGEngine\x64\Debug\GameTimer.obj
+D:\KMGEngine\Common\GeometryGenerator.cpp;D:\KMGEngine\KMGEngine\x64\Debug\GeometryGenerator.obj
+D:\KMGEngine\Common\MathHelper.cpp;D:\KMGEngine\KMGEngine\x64\Debug\MathHelper.obj
