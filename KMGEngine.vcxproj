@@ -128,6 +128,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="BoxApp.h" />
     <ClInclude Include="Common\Camera.h" />
     <ClInclude Include="Common\d3dApp.h" />
     <ClInclude Include="Common\d3dUtil.h" />
@@ -147,6 +148,7 @@
     <ClCompile Include="Common\GameTimer.cpp" />
     <ClCompile Include="Common\GeometryGenerator.cpp" />
     <ClCompile Include="Common\MathHelper.cpp" />
+    <ClCompile Include="EngineStart.cpp" />
   </ItemGroup>
   <ItemGroup>
     <FxCompile Include="Shaders\color.hlsl">
